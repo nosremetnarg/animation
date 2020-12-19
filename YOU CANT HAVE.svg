@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <rect x="0" y="0" width="100" height="100"/>
+    <g transform="matrix(0.71983,0,0,0.71983,-3.50906,2.25652)">
+        <text x="7.828px" y="34.715px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.19px;fill:none;stroke:white;stroke-width:0.63px;">YOU CAN&apos;T<tspan x="94.281px 98.779px 110.471px 120.068px 130.867px " y="34.715px 34.715px 34.715px 34.715px 34.715px "> HAVE</tspan></text>
+        <text x="32.615px" y="59.72px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.19px;fill:none;stroke:white;stroke-width:0.63px;">THE LIGHT</text>
+        <text x="37.125px" y="84.726px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.19px;fill:none;stroke:white;stroke-width:0.63px;">WITHOUT</text>
+        <text x="33.817px" y="109.732px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16.19px;fill:none;stroke:white;stroke-width:0.63px;">THE DARK</text>
+    </g>
+</svg>
